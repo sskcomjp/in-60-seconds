@@ -7,7 +7,7 @@
 ![IMAGE](assets/img/無題.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+@title[WHY YOU SHOULD COME HERE?]
 
 @snap[west span-55]
 ## Customize the Layout
