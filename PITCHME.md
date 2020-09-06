@@ -2,9 +2,9 @@
 
 ---
 
-### Add Some Slide Candy
+### 物語のはじまり
 
-![IMAGE](assets/img/robot.png)
+![IMAGE](assets/img/plen.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
