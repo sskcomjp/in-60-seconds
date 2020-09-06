@@ -1,20 +1,20 @@
-# PLEN**
+# Let's Get **Started**
 
 ---
 
-### IT'S OSAKA HIGHTECH
+### Add Some Slide Candy
 
-![IMAGE](assets/img/無題.png)
+![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@title[WHY YOU SHOULD COME HERE?]
+@title[Customize Slide Layout]
 
 @snap[west span-55]
 ## Customize the Layout
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/無題.png)
+![IMAGE](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100]
