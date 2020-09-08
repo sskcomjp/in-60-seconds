@@ -10,7 +10,8 @@
 @title[Customize Slide Layout]
 
 
-@snap[south span-55]
+@snap[west span-100]
+@snap[south span-100]
 ## Customize the Layout
 @snapend
 
