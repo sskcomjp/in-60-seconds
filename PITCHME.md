@@ -16,7 +16,7 @@
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/plen.png)
+![IMAGE](assets/img/adventure.png)
 @snapend
 
 @snap[south span-100]
