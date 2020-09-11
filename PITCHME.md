@@ -4,7 +4,7 @@
 
 ### 物語のはじまり
 
-![IMAGE](assets/img/plen.png)
+![IMAGE](assets/img/adventure.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
