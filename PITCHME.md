@@ -4,6 +4,7 @@
 
 ### 物語のはじまり
 
+@snap[north-east span-45]
 ![IMAGE](assets/img/adventure.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
@@ -24,7 +25,7 @@
 @snapend
 
 ---
-
+@snap[north-east span-45]
 ![VIDEO](assets/video/robopro.mp4)
 
 
