@@ -25,8 +25,8 @@
 @snapend
 
 ---
-@snap[north-east span-45]
-![VIDEO](https://www.youtube.com/watch?v=3-ubHsnRM_U&list=PLvJgUfWjlUOVT-ejvp15QK63CHaoofdex&index=13)
+![video](assets/video/robopro.mp4)
+
 
 
 ---
