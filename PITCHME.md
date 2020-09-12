@@ -25,7 +25,7 @@
 
 ---
 
-![Cartoon](assets/video/robopro.mp4)
+![VIDEO](assets/video/robopro.mp4)
 
 
 ---
